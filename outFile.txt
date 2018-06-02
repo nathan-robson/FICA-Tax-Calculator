@@ -1,0 +1,114 @@
+
+
+                                                                ACME                                        03/20/18
+
+                                          You want the best, but you've settled for us!
+
+
+                                                                                                              Page 1
+
+
+                                                                ACME
+
+ Emp#           Name             Dept.           New YTD             Gross              FICA               Net
+
+
+  6          Byrd,     Wesley	  Acct        $ 110,629.60        $     529.60      $       0.00      $     529.60
+  10       Cauble,      Blain	  Acct        $  67,874.14        $   1,371.52      $      97.38      $   1,274.14
+  22       Cronje, Chrisriaan	  Acct        $  36,692.90        $     100.00      $       7.10      $      92.90
+  24       Darosa,      Mauro	  Acct        $ 111,605.00        $   1,515.71      $       0.71      $   1,515.00
+                                                                  ------------      ------------      ------------
+                                                Page totals:      $   3,516.83      $     105.19      $   3,411.64
+
+
+
+                                                                                                              Page 2
+
+
+                                                                ACME
+
+ Emp#           Name             Dept.           New YTD             Gross              FICA               Net
+
+
+  13         Deal,       Ryan	  Acct        $   2,266.44        $     977.50      $      69.40      $     908.10
+                                                                  ------------      ------------      ------------
+                                                Dept totals:      $   4,494.33      $     174.59      $   4,319.74
+
+
+  5         SDiaz,      Ortiz	    DP        $ 110,099.29        $      10.00      $       0.71      $       9.29
+                                                                  ------------      ------------      ------------
+                                                Dept totals:      $      10.00      $       0.71      $       9.29
+
+
+  3     Dominguez,    Michael	   Mgt        $ 680,980.74        $   7,502.40      $       0.00      $   7,502.40
+  1        Duhart,     Marcus	   Mgt        $ 138,574.50        $   4,340.16      $       0.00      $   4,340.16
+                                                                  ------------      ------------      ------------
+                                                Dept totals:      $  11,842.56      $       0.00      $  11,842.56
+
+
+                                                                  ------------      ------------      ------------
+                                                Page totals:      $  12,830.06      $      70.11      $  12,759.95
+
+
+
+                                                                                                              Page 3
+
+
+                                                                ACME
+
+ Emp#           Name             Dept.           New YTD             Gross              FICA               Net
+
+
+  4          Dunn,     Korbin	 Sales        $  13,132.79        $   1,924.18      $     136.62      $   1,787.57
+  12        Evans,     Jeramy	 Sales        $     869.15        $     683.08      $      48.50      $     634.59
+  17     Friedman,      Micah	 Sales        $   3,595.03        $   1,348.42      $      95.74      $   1,252.69
+  7         Gauss,    Addison	 Sales        $  68,271.99        $   1,369.20      $      97.21      $   1,271.99
+                                                                  ------------      ------------      ------------
+                                                Dept totals:      $   5,324.89      $     378.07      $   4,946.82
+
+
+                                                                  ------------      ------------      ------------
+                                                Page totals:      $   5,324.89      $     378.07      $   4,946.82
+
+
+
+                                                                                                              Page 4
+
+
+                                                                ACME
+
+ Emp#           Name             Dept.           New YTD             Gross              FICA               Net
+
+
+  86   Giammaruti,  Alexander	 Inven        $  12,837.78        $     529.60      $      37.60      $     492.00
+  66     Harrison,     Jeremy	 Inven        $ 114,433.08        $   4,441.52      $       7.19      $   4,434.33
+  51      Hedreen,     Robert	 Inven        $ 206,700.00        $     100.00      $       0.00      $     100.00
+  38      Jaiswar,      Rahul	 Inven        $  80,093.42        $   1,885.27      $     133.85      $   1,751.42
+                                                                  ------------      ------------      ------------
+                                                Dept totals:      $   6,956.40      $     178.64      $   6,777.75
+
+
+                                                                  ------------      ------------      ------------
+                                                Page totals:      $   6,956.40      $     178.64      $   6,777.75
+
+
+
+                                                                                                              Page 5
+
+
+
+
+                                                                ACME
+
+                                                           Report Summary
+
+
+
+Total Records Processed:                16
+
+Total Gross Pay:              $  28,628.18
+
+Total FICA taxed:             $     732.01
+
+Total Net Pay:                $  27,896.17
+
